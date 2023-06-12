@@ -49,7 +49,7 @@ To build the Docker image and run the container, follow these steps:
 
 It would look somewhat like this - 
 
-![Localhost](image-1.png)
+![Localhost](Images\image-1.png)
 
 
 ## Notes
@@ -77,11 +77,11 @@ It can be done in few easy steps -
 
 3. Select "Web server environment" as the environment tier.
 
-![ConfigureEnviroment](image.png)
+![ConfigureEnviroment](Images\image.png)
 
 4. Fill out the Application name and Enviroment information  choose Docker as the platform.
 
-![EnvInfo](image-2.png)
+![EnvInfo](Images\image-2.png)
 
 5. In Application Code Section add Version Lable (example - 2048-game-v1)
 
@@ -98,6 +98,7 @@ It can be done in few easy steps -
 11. Once the environment is successfully created and running, Elastic Beanstalk will provide you with a URL to access your application.
 
 12. Open a web browser and visit the provided URL. You should be able to see the 2048 game running. 
+
 
 
 
