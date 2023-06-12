@@ -49,7 +49,7 @@ To build the Docker image and run the container, follow these steps:
 
 It would look somewhat like this - 
 
-![Localhost](Images\image-1.png)
+![Localhost](Images/image-1.png)
 
 
 ## Notes
@@ -77,11 +77,11 @@ It can be done in few easy steps -
 
 3. Select "Web server environment" as the environment tier.
 
-![ConfigureEnviroment](Images\image.png)
+![ConfigureEnviroment](Images/image.png)
 
 4. Fill out the Application name and Enviroment information  choose Docker as the platform.
 
-![EnvInfo](Images\image-2.png)
+![EnvInfo](Images/image-2.png)
 
 5. In Application Code Section add Version Lable (example - 2048-game-v1)
 
